@@ -34,7 +34,7 @@
 - [x] Write Chapter 5: The Intimacy Ladder
 - [x] Write Chapter 6: Long-term Love and Keeping the Spark
 - [x] Write Chapter 7: Mindfulness and Presence
-- [ ] Write Chapter 8: Self-Love and Solo Adventures
+- [x] Write Chapter 8: Self-Love and Solo Adventures
 - [ ] Write Chapter 9: Communication and Consent
 - [ ] Write Chapter 10: Stress, Health, and Human Connection
 - [ ] Write Chapter 11: Friendship, Family, and Platonic Touch
