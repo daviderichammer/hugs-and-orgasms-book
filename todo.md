@@ -38,7 +38,7 @@
 - [x] Write Chapter 9: Communication and Consent
 - [x] Write Chapter 10: Stress, Health, and Human Connection
 - [x] Write Chapter 11: Friendship, Family, and Platonic Touch
-- [ ] Write Chapter 12: The Art of Appreciation
+- [x] Write Chapter 12: The Art of Appreciation
 
 ## Phase 7: Format and finalize the complete 12-chapter book
 - [ ] Update table of contents
