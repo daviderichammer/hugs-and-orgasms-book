@@ -21,10 +21,8 @@
 - [x] Write Chapter 1: The Chemistry of Connection
 - [x] Write Chapter 2: Touch Starvation in the Digital Age
 - [x] Write Chapter 3: The Hug Hierarchy
-- [ ] Write Chapter 4: Dating in the Age of Apps
-- [ ] Write Chapter 5: The Intimacy Ladder
-- [ ] Write Chapter 6: Long-term Love and Keeping the Spark
-- [ ] Write Chapter 7: Mindfulness and Presence
+- [x] Write Chapter 4: Dating in the Age of Apps
+- [x] Write Conclusion: Embracing the Full Spectrum
 - [ ] Write Chapter 8: Self-Love and Solo Adventures
 - [ ] Write Chapter 9: Communication and Consent
 - [ ] Write Chapter 10: Stress, Health, and Human Connection
