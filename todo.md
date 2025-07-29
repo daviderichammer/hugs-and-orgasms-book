@@ -20,7 +20,7 @@
 - [x] Write Introduction: The Spectrum of Human Touch
 - [x] Write Chapter 1: The Chemistry of Connection
 - [x] Write Chapter 2: Touch Starvation in the Digital Age
-- [ ] Write Chapter 3: The Hug Hierarchy
+- [x] Write Chapter 3: The Hug Hierarchy
 - [ ] Write Chapter 4: Dating in the Age of Apps
 - [ ] Write Chapter 5: The Intimacy Ladder
 - [ ] Write Chapter 6: Long-term Love and Keeping the Spark
