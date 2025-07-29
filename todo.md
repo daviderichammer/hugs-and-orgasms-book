@@ -9,11 +9,11 @@
 ## Phase 2: Research and gather supporting content
 - [x] Research oxytocin, dopamine, and endorphin science
 - [x] Find studies on touch deprivation and health benefits
-- [ ] Research cultural differences in physical affection
+- [x] Research cultural differences in physical affection
 - [x] Gather data on modern dating and relationship trends
-- [ ] Find scientific studies on mindfulness and pleasure
-- [ ] Research stress reduction through physical connection
-- [ ] Compile interesting anecdotes and examples
+- [x] Find scientific studies on mindfulness and pleasure
+- [x] Research stress reduction through physical connection
+- [x] Compile interesting anecdotes and examples
 - [x] Set up GitHub repository for version control
 
 ## Phase 3: Write the complete book manuscript
