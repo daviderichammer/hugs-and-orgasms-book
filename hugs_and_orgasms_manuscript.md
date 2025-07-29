@@ -9,13 +9,33 @@
 
 **Introduction: The Spectrum of Human Touch**
 
-**Part I: The Science of Feeling Good**
-- Chapter 1: The Chemistry of Connection
-- Chapter 2: Touch Starvation in the Digital Age
-- Chapter 3: The Hug Hierarchy
+**Chapter 1: The Chemistry of Connection**
 
-**Part II: Navigating Modern Relationships**
-- Chapter 4: Dating in the Age of Apps
+**Chapter 2: Touch Starvation in the Digital Age**
+
+**Chapter 3: The Hug Hierarchy**
+
+**Chapter 4: Dating in the Age of Apps**
+
+**Chapter 5: The Intimacy Ladder**
+
+**Chapter 6: Long-term Love and Keeping the Spark**
+
+**Chapter 7: Mindfulness and Presence**
+
+**Chapter 8: Self-Love and Solo Adventures**
+
+**Chapter 9: Communication and Consent**
+
+**Chapter 10: Stress, Health, and Human Connection**
+
+**Chapter 11: Friendship, Family, and Platonic Touch**
+
+**Chapter 12: The Art of Appreciation**
+
+**Conclusion: Embracing the Full Spectrum**
+
+--- Chapter 4: Dating in the Age of Apps
 - Chapter 5: The Intimacy Ladder
 - Chapter 6: Long-term Love and Keeping the Spark
 
