@@ -18,7 +18,7 @@
 
 ## Phase 3: Write the complete book manuscript
 - [x] Write Introduction: The Spectrum of Human Touch
-- [ ] Write Chapter 1: The Chemistry of Connection
+- [x] Write Chapter 1: The Chemistry of Connection
 - [ ] Write Chapter 2: Touch Starvation in the Digital Age
 - [ ] Write Chapter 3: The Hug Hierarchy
 - [ ] Write Chapter 4: Dating in the Age of Apps
