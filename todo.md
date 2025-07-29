@@ -36,7 +36,7 @@
 - [x] Write Chapter 7: Mindfulness and Presence
 - [x] Write Chapter 8: Self-Love and Solo Adventures
 - [x] Write Chapter 9: Communication and Consent
-- [ ] Write Chapter 10: Stress, Health, and Human Connection
+- [x] Write Chapter 10: Stress, Health, and Human Connection
 - [ ] Write Chapter 11: Friendship, Family, and Platonic Touch
 - [ ] Write Chapter 12: The Art of Appreciation
 
