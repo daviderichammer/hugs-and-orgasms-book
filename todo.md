@@ -7,13 +7,14 @@
 - [x] Plan key themes and writing approach
 
 ## Phase 2: Research and gather supporting content
-- [ ] Research oxytocin, dopamine, and endorphin science
-- [ ] Find studies on touch deprivation and health benefits
+- [x] Research oxytocin, dopamine, and endorphin science
+- [x] Find studies on touch deprivation and health benefits
 - [ ] Research cultural differences in physical affection
-- [ ] Gather data on modern dating and relationship trends
+- [x] Gather data on modern dating and relationship trends
 - [ ] Find scientific studies on mindfulness and pleasure
 - [ ] Research stress reduction through physical connection
 - [ ] Compile interesting anecdotes and examples
+- [x] Set up GitHub repository for version control
 
 ## Phase 3: Write the complete book manuscript
 - [ ] Write Introduction: The Spectrum of Human Touch
